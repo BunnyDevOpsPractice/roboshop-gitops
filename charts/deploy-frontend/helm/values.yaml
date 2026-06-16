@@ -1,0 +1,6 @@
+deployment:
+  replicas: 1
+  imageVersion: "1.0.0"
+  imageURL: 000000000000.dkr.ecr.us-east-1.localhost:5100/roboshop/frontend
+
+  
